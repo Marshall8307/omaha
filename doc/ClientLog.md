@@ -37,6 +37,7 @@ LC_REPORT=3
 
 [LoggingSettings]
 EnableLogging=1
+LogFilePath="C:\foo\GoogleUpdate.log"
 MaxLogFileSize=10000000
 
 ShowTime=1
